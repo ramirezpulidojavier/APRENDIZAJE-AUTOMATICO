@@ -1,2 +1,2 @@
 # APRENDIZAJE-AUTOMATICO
-Asignatura de 3º de CSI de Ingenieria Informatica ETSIIT - UGR
+Asignatura de la mencion de CSI de 3º de Ingenieria Informatica ETSIIT - UGR
